@@ -1,0 +1,32 @@
+{
+  "name": "kaiser-omics-skills",
+  "owner": {
+    "name": "Falko Noé",
+    "email": "falkonoe@gmail.com"
+  },
+  "metadata": {
+    "description": "Omics and programming skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "omics-skills",
+      "description": "A selection of omics skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+      ]
+    },
+    {
+      "name": "programming-skills",
+      "description": "Collection of skills used for various programming tasks",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./shell-scripting.skill",
+        "./r-development.skill",
+        "./python-style-guide.skill",
+      ]
+    }
+  ]
+}
