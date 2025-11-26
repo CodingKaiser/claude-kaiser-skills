@@ -6,7 +6,7 @@ license: Complete terms in LICENSE.txt
 
 # Python Style Guide
 
-Comprehensive guidelines for writing clean, maintainable Python code based on Google's Python Style Guide.
+Comprehensive guidelines for writing clean, maintainable Python code based on [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 
 ## Core Philosophy
 
