@@ -25,8 +25,9 @@
       "skills": [
 	    "./shell-scripting",
 	    "./r-development",
-        "./python-style-guide",
-		"./pixi"
+            "./python-style-guide",
+	    "./pixi",
+	    "./marimo-development"
       ]
     }
   ]
