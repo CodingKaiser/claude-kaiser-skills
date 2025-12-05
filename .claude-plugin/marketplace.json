@@ -22,6 +22,15 @@
       "skills": ["./python-style-guide"]
     },
     {
+      "name": "python",
+      "description": "Python development with marimo and style guide",
+      "source": "./",
+      "skills": [
+        "./python-style-guide",
+        "./marimo-development"
+      ]
+    },
+    {
       "name": "r-skill",
       "description": "R development",
       "source": "./",
